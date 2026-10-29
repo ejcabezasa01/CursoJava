@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PruebasJava:jar">
+    <output-path>$PROJECT_DIR$/../PruebasJava/out/artifacts/PruebasJava_jar</output-path>
+    <root id="archive" name="PruebasJava.jar">
+      <element id="module-output" name="PruebasJava" />
+    </root>
+  </artifact>
+</component>
